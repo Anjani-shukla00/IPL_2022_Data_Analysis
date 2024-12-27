@@ -18,3 +18,10 @@ Check out some of the insights below:
 1️⃣ Bar chart showing team-wise match wins.
 2️⃣ Pie chart comparing matches won by defending and chasing.
 3️⃣ Highlights of top-performing players and their stats.
+
+
+Best bowler in IPL 2022 is Yuzendra Chahal.
+Total Wickets = 5
+Best player in IPL 2022 Wanindu Hasaranga.
+Since Gujarat won most matches.
+Best top scorer is Buttler 600 runs
